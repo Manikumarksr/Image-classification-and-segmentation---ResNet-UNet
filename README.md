@@ -37,7 +37,7 @@ Please ensure that you have downloaded and unzipped the dataset in the `/` direc
 ## Usage
 **Clone this repository:**
 ```
-git clone https://github.com/Manikumarksr/Image classification and segmentation - ResNet, UNet.git
+git clone https://github.com/Manikumarksr/Image-classification-and-segmentation---ResNet-UNet.git
 cd Plant-Disease-Classification-Segmentation
 
 ```
